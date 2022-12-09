@@ -1,8 +1,3 @@
-<p align="center">
-  <kbd>
-  <img width="800" height="400" src="https://media3.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=790b7611da2003587f7f83dbe3a4490138002a09fbf106d0&rid=giphy.gif&ct=g">
-  </kbd>
-    </p>
 
 
 
@@ -14,8 +9,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swiftmg0d&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swiftmg0d&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swiftmg0d&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swiftmg0d&show_icons=true&theme=radical)
