@@ -7,7 +7,9 @@
   </kbd>
     </p>
 <p align="center">
-<img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftmg0d&layout=demo&theme=radical" align = "center"/>
-<img height="230px" src="https://github-readme-stats.vercel.app/api?username=swiftmg0d&show_icons=true&theme=radical" align = "center"/>
+   <kbd>
+<img height="230px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftmg0d&layout=demo&theme=radical" align = "center"/>
+<img height="230px" width="550px" src="https://github-readme-stats.vercel.app/api?username=swiftmg0d&show_icons=true&theme=radical" align = "center"/>
+      </kbd>
 </p>
 
