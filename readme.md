@@ -8,11 +8,11 @@
     </p>
 <p align="center">
    <kbd>
-<img height="230px" width="250px" src="https://github-readme-stats.vercel.app/api?username=swiftmg0d&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" align = "center"/>
+ <img height=230px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swiftmg0d&layout=compact&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" align = "center"/>
 <img height="230px" width="550px" src="https://github-readme-stats.vercel.app/api?username=swiftmg0d&show_icons=true&theme=radical" align = "center"/>
 
 
-      </kbd>
+ </kbd>
 </p>
  
 
