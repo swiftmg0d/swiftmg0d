@@ -7,17 +7,16 @@
   </kbd>
     </p>
 <p align="center">
-   <kbd>
-      <img  width="400px"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swiftmg0d&layout=compact&show_icons=true&include_all_commits=true&theme=radical" align = "center"/>
+<img width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swiftmg0d&layout=compact&show_icons=true&include_all_commits=true&theme=radical" align = "center"/>
     
-<img height="100px" width="400px" src="https://github-readme-stats.vercel.app/api?username=swiftmg0d&show_icons=true&theme=radical" align = "center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swiftmg0d&show_icons=true&theme=radical" align = "center"/>
    </kbd>
 </p>
  
 
   <p align="center"> 
      <kbd>
-<img height="200px" width="800px" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47bryk6waqc1cx8ie3etlffqlueeuam14ysedtf0jc&rid=giphy.gif&ct=g" align = "center"/>
+<img  src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47bryk6waqc1cx8ie3etlffqlueeuam14ysedtf0jc&rid=giphy.gif&ct=g" align = "center"/>
      </kbd>
 </p>
 
