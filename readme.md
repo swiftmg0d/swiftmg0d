@@ -4,7 +4,6 @@
   <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
     
    ![](https://komarev.com/ghpvc/?username=swiftmg0d&color=grey)
-   Fáilte a stór taistealaí
   </p>
 
  
