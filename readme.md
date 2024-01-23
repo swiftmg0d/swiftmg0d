@@ -1,7 +1,7 @@
 
 
  <kbd>
-<p style="text-align: center;" >
+<p align="center">
   ![](https://komarev.com/ghpvc/?username=swiftmg0d&color=grey)
 </p>
 <p align="center">
