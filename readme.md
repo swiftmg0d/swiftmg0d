@@ -1,10 +1,13 @@
-w
+
 
  <kbd>
- <p align="center">
+    <div style="display: flex; justify-content: center; align-items: center;">
+    <p align="center">
 
   ![](https://komarev.com/ghpvc/?username=swiftmg0d&color=grey)
   </p>
+  </div>
+ 
 <p align="center">
   <kbd>
   <img width="800" height="350" src="https://media3.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif?cid=790b76115023f566701cdf1bc6ab6353d668b31b9142c000&rid=giphy.gif&ct=g">
