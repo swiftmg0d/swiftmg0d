@@ -1,10 +1,9 @@
 
 
  <kbd>
-  <p align="center">
-
-  ![](https://komarev.com/ghpvc/?username=swiftmg0d&color=grey)
-  </p>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <p style="text-align: center;">  ![](https://komarev.com/ghpvc/?username=swiftmg0d&color=grey) </p>
+  </div>
 
 <p align="center">
   <kbd>
